@@ -102,11 +102,12 @@
     "Name": "Greenwich",
     "Temperatures": [
       9.2,
-      -56.0
+      -56.0,
+      -86.0
     ],
     "MaxTemp": 9.2,
-    "MinTemp": -56.0,
-    "AvgTemp": -23.4
+    "MinTemp": -86.0,
+    "AvgTemp": -44.26666666666667
   },
   {
     "Name": "Itumbiara",
@@ -246,300 +247,336 @@
   {
     "Name": "Çatalca",
     "Temperatures": [
-      22.0
+      22.0,
+      25.0
     ],
-    "MaxTemp": 22.0,
+    "MaxTemp": 25.0,
     "MinTemp": 22.0,
-    "AvgTemp": 22.0
+    "AvgTemp": 23.5
   },
   {
     "Name": "Winslow",
     "Temperatures": [
-      -56.0
+      -56.0,
+      -46.0
     ],
-    "MaxTemp": -56.0,
+    "MaxTemp": -46.0,
     "MinTemp": -56.0,
-    "AvgTemp": -56.0
+    "AvgTemp": -51.0
   },
   {
     "Name": "New Glasgow",
     "Temperatures": [
-      61.9
+      61.9,
+      41.9
     ],
     "MaxTemp": 61.9,
-    "MinTemp": 61.9,
-    "AvgTemp": 61.9
+    "MinTemp": 41.9,
+    "AvgTemp": 51.9
   },
   {
     "Name": "Cajabamba",
     "Temperatures": [
-      51.4
+      51.4,
+      59.4
     ],
-    "MaxTemp": 51.4,
+    "MaxTemp": 59.4,
     "MinTemp": 51.4,
-    "AvgTemp": 51.4
+    "AvgTemp": 55.4
   },
   {
     "Name": "Kall",
     "Temperatures": [
-      49.9
+      49.9,
+      49.2
     ],
     "MaxTemp": 49.9,
-    "MinTemp": 49.9,
-    "AvgTemp": 49.9
+    "MinTemp": 49.2,
+    "AvgTemp": 49.55
   },
   {
     "Name": "Malar",
     "Temperatures": [
-      -45.1
+      -45.1,
+      -45.9
     ],
     "MaxTemp": -45.1,
-    "MinTemp": -45.1,
-    "AvgTemp": -45.1
+    "MinTemp": -45.9,
+    "AvgTemp": -45.5
   },
   {
     "Name": "Rostraver",
     "Temperatures": [
-      -54.3
+      -54.3,
+      -54.4
     ],
     "MaxTemp": -54.3,
-    "MinTemp": -54.3,
-    "AvgTemp": -54.3
+    "MinTemp": -54.4,
+    "AvgTemp": -54.349999999999994
   },
   {
     "Name": "Cajati",
     "Temperatures": [
-      1.4
+      1.4,
+      3.4
     ],
-    "MaxTemp": 1.4,
+    "MaxTemp": 3.4,
     "MinTemp": 1.4,
-    "AvgTemp": 1.4
+    "AvgTemp": 2.4
   },
   {
     "Name": "Lubbock",
     "Temperatures": [
-      55.2
+      55.2,
+      53.2
     ],
     "MaxTemp": 55.2,
-    "MinTemp": 55.2,
-    "AvgTemp": 55.2
+    "MinTemp": 53.2,
+    "AvgTemp": 54.2
   },
   {
     "Name": "Sindhnūr",
     "Temperatures": [
-      -9.8
+      -9.8,
+      -3.8,
+      2.2
     ],
-    "MaxTemp": -9.8,
+    "MaxTemp": 2.2,
     "MinTemp": -9.8,
-    "AvgTemp": -9.8
+    "AvgTemp": -3.8000000000000007
   },
   {
     "Name": "Vólos",
     "Temperatures": [
-      92.5
+      92.5,
+      93.5
     ],
-    "MaxTemp": 92.5,
+    "MaxTemp": 93.5,
     "MinTemp": 92.5,
-    "AvgTemp": 92.5
+    "AvgTemp": 93.0
   },
   {
     "Name": "Újfehértó",
     "Temperatures": [
-      -95.1
+      -95.1,
+      -35.1
     ],
-    "MaxTemp": -95.1,
+    "MaxTemp": -35.1,
     "MinTemp": -95.1,
-    "AvgTemp": -95.1
+    "AvgTemp": -65.1
   },
   {
     "Name": "Al Jabāyish",
     "Temperatures": [
-      30.2
+      30.2,
+      80.2
     ],
-    "MaxTemp": 30.2,
+    "MaxTemp": 80.2,
     "MinTemp": 30.2,
-    "AvgTemp": 30.2
+    "AvgTemp": 55.2
   },
   {
     "Name": "Petawawa",
     "Temperatures": [
-      8.1
+      8.1,
+      6.1
     ],
     "MaxTemp": 8.1,
-    "MinTemp": 8.1,
-    "AvgTemp": 8.1
+    "MinTemp": 6.1,
+    "AvgTemp": 7.1
   },
   {
     "Name": "Ampasimpotsy-Gara",
     "Temperatures": [
-      -43.9
+      -43.9,
+      -93.9
     ],
     "MaxTemp": -43.9,
-    "MinTemp": -43.9,
-    "AvgTemp": -43.9
+    "MinTemp": -93.9,
+    "AvgTemp": -68.9
   },
   {
     "Name": "La Palma",
     "Temperatures": [
-      76.5
+      76.5,
+      26.5
     ],
     "MaxTemp": 76.5,
-    "MinTemp": 76.5,
-    "AvgTemp": 76.5
+    "MinTemp": 26.5,
+    "AvgTemp": 51.5
   },
   {
     "Name": "Whittlesey",
     "Temperatures": [
-      35.8
+      35.8,
+      85.8
     ],
-    "MaxTemp": 35.8,
+    "MaxTemp": 85.8,
     "MinTemp": 35.8,
-    "AvgTemp": 35.8
+    "AvgTemp": 60.8
   },
   {
     "Name": "Daitōchō",
     "Temperatures": [
-      -82.9
+      -82.9,
+      -22.9
     ],
-    "MaxTemp": -82.9,
+    "MaxTemp": -22.9,
     "MinTemp": -82.9,
-    "AvgTemp": -82.9
+    "AvgTemp": -52.900000000000006
   },
   {
     "Name": "Kayapa",
     "Temperatures": [
-      -44.9
+      -44.9,
+      -84.9
     ],
     "MaxTemp": -44.9,
-    "MinTemp": -44.9,
-    "AvgTemp": -44.9
+    "MinTemp": -84.9,
+    "AvgTemp": -64.9
   },
   {
     "Name": "Alfredo Chaves",
     "Temperatures": [
-      -5.2
+      -5.2,
+      -8.2
     ],
     "MaxTemp": -5.2,
-    "MinTemp": -5.2,
-    "AvgTemp": -5.2
+    "MinTemp": -8.2,
+    "AvgTemp": -6.699999999999999
   },
   {
     "Name": "Kozloduy",
     "Temperatures": [
-      60.0
+      60.0,
+      20.0
     ],
     "MaxTemp": 60.0,
-    "MinTemp": 60.0,
-    "AvgTemp": 60.0
+    "MinTemp": 20.0,
+    "AvgTemp": 40.0
   },
   {
     "Name": "Loon",
     "Temperatures": [
-      -46.0
+      -46.0,
+      -96.0,
+      48.4
     ],
-    "MaxTemp": -46.0,
-    "MinTemp": -46.0,
-    "AvgTemp": -46.0
+    "MaxTemp": 48.4,
+    "MinTemp": -96.0,
+    "AvgTemp": -31.2
   },
   {
     "Name": "Antigua",
     "Temperatures": [
-      -84.3
+      -84.3,
+      -14.3,
+      -84.7
     ],
-    "MaxTemp": -84.3,
-    "MinTemp": -84.3,
-    "AvgTemp": -84.3
+    "MaxTemp": -14.3,
+    "MinTemp": -84.7,
+    "AvgTemp": -61.1
   },
   {
     "Name": "Osan",
     "Temperatures": [
-      -51.3
+      -51.3,
+      -61.3
     ],
     "MaxTemp": -51.3,
-    "MinTemp": -51.3,
-    "AvgTemp": -51.3
+    "MinTemp": -61.3,
+    "AvgTemp": -56.3
   },
   {
     "Name": "Leibnitz",
     "Temperatures": [
-      -64.4
+      -64.4,
+      -14.4
     ],
-    "MaxTemp": -64.4,
+    "MaxTemp": -14.4,
     "MinTemp": -64.4,
-    "AvgTemp": -64.4
+    "AvgTemp": -39.400000000000006
   },
   {
     "Name": "Kazanlak",
     "Temperatures": [
-      87.8
+      87.8,
+      17.8
     ],
     "MaxTemp": 87.8,
-    "MinTemp": 87.8,
-    "AvgTemp": 87.8
+    "MinTemp": 17.8,
+    "AvgTemp": 52.8
   },
   {
     "Name": "Lodwar",
     "Temperatures": [
-      -53.8
+      -53.8,
+      -83.8
     ],
     "MaxTemp": -53.8,
-    "MinTemp": -53.8,
-    "AvgTemp": -53.8
+    "MinTemp": -83.8,
+    "AvgTemp": -68.8
   },
   {
     "Name": "Prachuap Khiri Khan",
     "Temperatures": [
-      -27.3
+      -27.3,
+      -97.3
     ],
     "MaxTemp": -27.3,
-    "MinTemp": -27.3,
-    "AvgTemp": -27.3
+    "MinTemp": -97.3,
+    "AvgTemp": -62.3
   },
   {
     "Name": "Tomakomai",
     "Temperatures": [
-      -8.8
+      -8.8,
+      -4.8
     ],
-    "MaxTemp": -8.8,
+    "MaxTemp": -4.8,
     "MinTemp": -8.8,
-    "AvgTemp": -8.8
+    "AvgTemp": -6.800000000000001
   },
   {
     "Name": "Beckenham",
     "Temperatures": [
-      44.7
+      44.7,
+      49.7
     ],
-    "MaxTemp": 44.7,
+    "MaxTemp": 49.7,
     "MinTemp": 44.7,
-    "AvgTemp": 44.7
+    "AvgTemp": 47.2
   },
   {
     "Name": "Bandalli",
     "Temperatures": [
-      72.5
+      72.5,
+      92.5
     ],
-    "MaxTemp": 72.5,
+    "MaxTemp": 92.5,
     "MinTemp": 72.5,
-    "AvgTemp": 72.5
+    "AvgTemp": 82.5
   },
   {
     "Name": "Arājpur",
     "Temperatures": [
-      98.5
+      98.5,
+      28.5
     ],
     "MaxTemp": 98.5,
-    "MinTemp": 98.5,
-    "AvgTemp": 98.5
+    "MinTemp": 28.5,
+    "AvgTemp": 63.5
   },
   {
     "Name": "Najafābād",
     "Temperatures": [
       33.4,
+      73.4,
       13.4
     ],
-    "MaxTemp": 33.4,
+    "MaxTemp": 73.4,
     "MinTemp": 13.4,
-    "AvgTemp": 23.4
+    "AvgTemp": 40.06666666666667
   },
   {
     "Name": "Bushenyi",
@@ -664,11 +701,12 @@
   {
     "Name": "Rentachintala",
     "Temperatures": [
-      94.0
+      94.0,
+      -96.5
     ],
     "MaxTemp": 94.0,
-    "MinTemp": 94.0,
-    "AvgTemp": 94.0
+    "MinTemp": -96.5,
+    "AvgTemp": -1.25
   },
   {
     "Name": "Grand Turk",
@@ -696,5 +734,2597 @@
     "MaxTemp": -88.3,
     "MinTemp": -88.3,
     "AvgTemp": -88.3
+  },
+  {
+    "Name": "Volpago del Montello",
+    "Temperatures": [
+      -74.3
+    ],
+    "MaxTemp": -74.3,
+    "MinTemp": -74.3,
+    "AvgTemp": -74.3
+  },
+  {
+    "Name": "Kalinkavichy",
+    "Temperatures": [
+      -63.3
+    ],
+    "MaxTemp": -63.3,
+    "MinTemp": -63.3,
+    "AvgTemp": -63.3
+  },
+  {
+    "Name": "Las Piedras",
+    "Temperatures": [
+      3.7
+    ],
+    "MaxTemp": 3.7,
+    "MinTemp": 3.7,
+    "AvgTemp": 3.7
+  },
+  {
+    "Name": "Cidreira",
+    "Temperatures": [
+      -41.2
+    ],
+    "MaxTemp": -41.2,
+    "MinTemp": -41.2,
+    "AvgTemp": -41.2
+  },
+  {
+    "Name": "Inuyama",
+    "Temperatures": [
+      12.2
+    ],
+    "MaxTemp": 12.2,
+    "MinTemp": 12.2,
+    "AvgTemp": 12.2
+  },
+  {
+    "Name": "Geldermalsen",
+    "Temperatures": [
+      -80.5
+    ],
+    "MaxTemp": -80.5,
+    "MinTemp": -80.5,
+    "AvgTemp": -80.5
+  },
+  {
+    "Name": "Okondja",
+    "Temperatures": [
+      -75.5
+    ],
+    "MaxTemp": -75.5,
+    "MinTemp": -75.5,
+    "AvgTemp": -75.5
+  },
+  {
+    "Name": "El Campo",
+    "Temperatures": [
+      -72.9
+    ],
+    "MaxTemp": -72.9,
+    "MinTemp": -72.9,
+    "AvgTemp": -72.9
+  },
+  {
+    "Name": "Paracuellos de Jarama",
+    "Temperatures": [
+      4.4
+    ],
+    "MaxTemp": 4.4,
+    "MinTemp": 4.4,
+    "AvgTemp": 4.4
+  },
+  {
+    "Name": "Seberang Jaya",
+    "Temperatures": [
+      12.9
+    ],
+    "MaxTemp": 12.9,
+    "MinTemp": 12.9,
+    "AvgTemp": 12.9
+  },
+  {
+    "Name": "Tinajdad",
+    "Temperatures": [
+      -30.9
+    ],
+    "MaxTemp": -30.9,
+    "MinTemp": -30.9,
+    "AvgTemp": -30.9
+  },
+  {
+    "Name": "Milnrow",
+    "Temperatures": [
+      64.5
+    ],
+    "MaxTemp": 64.5,
+    "MinTemp": 64.5,
+    "AvgTemp": 64.5
+  },
+  {
+    "Name": "Butajīra",
+    "Temperatures": [
+      -10.2
+    ],
+    "MaxTemp": -10.2,
+    "MinTemp": -10.2,
+    "AvgTemp": -10.2
+  },
+  {
+    "Name": "Rafaḩ",
+    "Temperatures": [
+      93.8
+    ],
+    "MaxTemp": 93.8,
+    "MinTemp": 93.8,
+    "AvgTemp": 93.8
+  },
+  {
+    "Name": "Sbeitla",
+    "Temperatures": [
+      8.0
+    ],
+    "MaxTemp": 8.0,
+    "MinTemp": 8.0,
+    "AvgTemp": 8.0
+  },
+  {
+    "Name": "Burlingame",
+    "Temperatures": [
+      73.2
+    ],
+    "MaxTemp": 73.2,
+    "MinTemp": 73.2,
+    "AvgTemp": 73.2
+  },
+  {
+    "Name": "Yaita",
+    "Temperatures": [
+      6.4
+    ],
+    "MaxTemp": 6.4,
+    "MinTemp": 6.4,
+    "AvgTemp": 6.4
+  },
+  {
+    "Name": "Bodītī",
+    "Temperatures": [
+      -51.4
+    ],
+    "MaxTemp": -51.4,
+    "MinTemp": -51.4,
+    "AvgTemp": -51.4
+  },
+  {
+    "Name": "Gonaïves",
+    "Temperatures": [
+      77.6
+    ],
+    "MaxTemp": 77.6,
+    "MinTemp": 77.6,
+    "AvgTemp": 77.6
+  },
+  {
+    "Name": "Loma Linda",
+    "Temperatures": [
+      -71.1
+    ],
+    "MaxTemp": -71.1,
+    "MinTemp": -71.1,
+    "AvgTemp": -71.1
+  },
+  {
+    "Name": "Khanpur",
+    "Temperatures": [
+      -99.3
+    ],
+    "MaxTemp": -99.3,
+    "MinTemp": -99.3,
+    "AvgTemp": -99.3
+  },
+  {
+    "Name": "Maria Aurora",
+    "Temperatures": [
+      84.5
+    ],
+    "MaxTemp": 84.5,
+    "MinTemp": 84.5,
+    "AvgTemp": 84.5
+  },
+  {
+    "Name": "Albuera",
+    "Temperatures": [
+      99.9
+    ],
+    "MaxTemp": 99.9,
+    "MinTemp": 99.9,
+    "AvgTemp": 99.9
+  },
+  {
+    "Name": "Croxley Green",
+    "Temperatures": [
+      61.1
+    ],
+    "MaxTemp": 61.1,
+    "MinTemp": 61.1,
+    "AvgTemp": 61.1
+  },
+  {
+    "Name": "West Chicago",
+    "Temperatures": [
+      -36.0
+    ],
+    "MaxTemp": -36.0,
+    "MinTemp": -36.0,
+    "AvgTemp": -36.0
+  },
+  {
+    "Name": "Caaporã",
+    "Temperatures": [
+      -35.7
+    ],
+    "MaxTemp": -35.7,
+    "MinTemp": -35.7,
+    "AvgTemp": -35.7
+  },
+  {
+    "Name": "Magadan",
+    "Temperatures": [
+      19.9
+    ],
+    "MaxTemp": 19.9,
+    "MinTemp": 19.9,
+    "AvgTemp": 19.9
+  },
+  {
+    "Name": "Kālna",
+    "Temperatures": [
+      -58.3
+    ],
+    "MaxTemp": -58.3,
+    "MinTemp": -58.3,
+    "AvgTemp": -58.3
+  },
+  {
+    "Name": "Guiyang",
+    "Temperatures": [
+      -71.4
+    ],
+    "MaxTemp": -71.4,
+    "MinTemp": -71.4,
+    "AvgTemp": -71.4
+  },
+  {
+    "Name": "Kakkalapalle",
+    "Temperatures": [
+      -79.2
+    ],
+    "MaxTemp": -79.2,
+    "MinTemp": -79.2,
+    "AvgTemp": -79.2
+  },
+  {
+    "Name": "Vila Velha",
+    "Temperatures": [
+      -17.3
+    ],
+    "MaxTemp": -17.3,
+    "MinTemp": -17.3,
+    "AvgTemp": -17.3
+  },
+  {
+    "Name": "Custódia",
+    "Temperatures": [
+      42.6,
+      33.3
+    ],
+    "MaxTemp": 42.6,
+    "MinTemp": 33.3,
+    "AvgTemp": 37.95
+  },
+  {
+    "Name": "Bakhariā",
+    "Temperatures": [
+      70.8
+    ],
+    "MaxTemp": 70.8,
+    "MinTemp": 70.8,
+    "AvgTemp": 70.8
+  },
+  {
+    "Name": "Greasley",
+    "Temperatures": [
+      -13.6
+    ],
+    "MaxTemp": -13.6,
+    "MinTemp": -13.6,
+    "AvgTemp": -13.6
+  },
+  {
+    "Name": "Zyryanovsk",
+    "Temperatures": [
+      80.9
+    ],
+    "MaxTemp": 80.9,
+    "MinTemp": 80.9,
+    "AvgTemp": 80.9
+  },
+  {
+    "Name": "Lakhipur",
+    "Temperatures": [
+      81.7
+    ],
+    "MaxTemp": 81.7,
+    "MinTemp": 81.7,
+    "AvgTemp": 81.7
+  },
+  {
+    "Name": "Jaguaruana",
+    "Temperatures": [
+      -96.4
+    ],
+    "MaxTemp": -96.4,
+    "MinTemp": -96.4,
+    "AvgTemp": -96.4
+  },
+  {
+    "Name": "Balneário de Camboriú",
+    "Temperatures": [
+      59.5
+    ],
+    "MaxTemp": 59.5,
+    "MinTemp": 59.5,
+    "AvgTemp": 59.5
+  },
+  {
+    "Name": "Heusenstamm",
+    "Temperatures": [
+      -87.4
+    ],
+    "MaxTemp": -87.4,
+    "MinTemp": -87.4,
+    "AvgTemp": -87.4
+  },
+  {
+    "Name": "Reddish",
+    "Temperatures": [
+      23.3
+    ],
+    "MaxTemp": 23.3,
+    "MinTemp": 23.3,
+    "AvgTemp": 23.3
+  },
+  {
+    "Name": "Avion",
+    "Temperatures": [
+      26.0
+    ],
+    "MaxTemp": 26.0,
+    "MinTemp": 26.0,
+    "AvgTemp": 26.0
+  },
+  {
+    "Name": "Pirojgarh",
+    "Temperatures": [
+      -93.9
+    ],
+    "MaxTemp": -93.9,
+    "MinTemp": -93.9,
+    "AvgTemp": -93.9
+  },
+  {
+    "Name": "Peto",
+    "Temperatures": [
+      -30.0
+    ],
+    "MaxTemp": -30.0,
+    "MinTemp": -30.0,
+    "AvgTemp": -30.0
+  },
+  {
+    "Name": "Kaldsletta",
+    "Temperatures": [
+      -91.3
+    ],
+    "MaxTemp": -91.3,
+    "MinTemp": -91.3,
+    "AvgTemp": -91.3
+  },
+  {
+    "Name": "Gilbués",
+    "Temperatures": [
+      -80.4
+    ],
+    "MaxTemp": -80.4,
+    "MinTemp": -80.4,
+    "AvgTemp": -80.4
+  },
+  {
+    "Name": "Zwijndrecht",
+    "Temperatures": [
+      -93.2
+    ],
+    "MaxTemp": -93.2,
+    "MinTemp": -93.2,
+    "AvgTemp": -93.2
+  },
+  {
+    "Name": "Kristianstad",
+    "Temperatures": [
+      64.3
+    ],
+    "MaxTemp": 64.3,
+    "MinTemp": 64.3,
+    "AvgTemp": 64.3
+  },
+  {
+    "Name": "Khonobod",
+    "Temperatures": [
+      -52.8
+    ],
+    "MaxTemp": -52.8,
+    "MinTemp": -52.8,
+    "AvgTemp": -52.8
+  },
+  {
+    "Name": "Trashigang",
+    "Temperatures": [
+      3.4
+    ],
+    "MaxTemp": 3.4,
+    "MinTemp": 3.4,
+    "AvgTemp": 3.4
+  },
+  {
+    "Name": "Kefamenanu",
+    "Temperatures": [
+      71.8
+    ],
+    "MaxTemp": 71.8,
+    "MinTemp": 71.8,
+    "AvgTemp": 71.8
+  },
+  {
+    "Name": "Kaufering",
+    "Temperatures": [
+      -19.3
+    ],
+    "MaxTemp": -19.3,
+    "MinTemp": -19.3,
+    "AvgTemp": -19.3
+  },
+  {
+    "Name": "Wald-Michelbach",
+    "Temperatures": [
+      51.7
+    ],
+    "MaxTemp": 51.7,
+    "MinTemp": 51.7,
+    "AvgTemp": 51.7
+  },
+  {
+    "Name": "Éragny",
+    "Temperatures": [
+      73.8
+    ],
+    "MaxTemp": 73.8,
+    "MinTemp": 73.8,
+    "AvgTemp": 73.8
+  },
+  {
+    "Name": "Indore",
+    "Temperatures": [
+      9.9
+    ],
+    "MaxTemp": 9.9,
+    "MinTemp": 9.9,
+    "AvgTemp": 9.9
+  },
+  {
+    "Name": "Koja",
+    "Temperatures": [
+      87.5
+    ],
+    "MaxTemp": 87.5,
+    "MinTemp": 87.5,
+    "AvgTemp": 87.5
+  },
+  {
+    "Name": "Tixkokob",
+    "Temperatures": [
+      -31.1
+    ],
+    "MaxTemp": -31.1,
+    "MinTemp": -31.1,
+    "AvgTemp": -31.1
+  },
+  {
+    "Name": "Bristol",
+    "Temperatures": [
+      -2.0
+    ],
+    "MaxTemp": -2.0,
+    "MinTemp": -2.0,
+    "AvgTemp": -2.0
+  },
+  {
+    "Name": "Ritterhude",
+    "Temperatures": [
+      -56.3
+    ],
+    "MaxTemp": -56.3,
+    "MinTemp": -56.3,
+    "AvgTemp": -56.3
+  },
+  {
+    "Name": "Wertingen",
+    "Temperatures": [
+      77.4
+    ],
+    "MaxTemp": 77.4,
+    "MinTemp": 77.4,
+    "AvgTemp": 77.4
+  },
+  {
+    "Name": "Inírida",
+    "Temperatures": [
+      47.1
+    ],
+    "MaxTemp": 47.1,
+    "MinTemp": 47.1,
+    "AvgTemp": 47.1
+  },
+  {
+    "Name": "La Maná",
+    "Temperatures": [
+      -84.4
+    ],
+    "MaxTemp": -84.4,
+    "MinTemp": -84.4,
+    "AvgTemp": -84.4
+  },
+  {
+    "Name": "Magstadt",
+    "Temperatures": [
+      15.6
+    ],
+    "MaxTemp": 15.6,
+    "MinTemp": 15.6,
+    "AvgTemp": 15.6
+  },
+  {
+    "Name": "Huolu",
+    "Temperatures": [
+      -26.7
+    ],
+    "MaxTemp": -26.7,
+    "MinTemp": -26.7,
+    "AvgTemp": -26.7
+  },
+  {
+    "Name": "Agua Prieta",
+    "Temperatures": [
+      18.9
+    ],
+    "MaxTemp": 18.9,
+    "MinTemp": 18.9,
+    "AvgTemp": 18.9
+  },
+  {
+    "Name": "Cypress Lake",
+    "Temperatures": [
+      58.1
+    ],
+    "MaxTemp": 58.1,
+    "MinTemp": 58.1,
+    "AvgTemp": 58.1
+  },
+  {
+    "Name": "Kasaoka",
+    "Temperatures": [
+      89.0
+    ],
+    "MaxTemp": 89.0,
+    "MinTemp": 89.0,
+    "AvgTemp": 89.0
+  },
+  {
+    "Name": "Nyzhnohirskyi",
+    "Temperatures": [
+      19.3
+    ],
+    "MaxTemp": 19.3,
+    "MinTemp": 19.3,
+    "AvgTemp": 19.3
+  },
+  {
+    "Name": "Los Corrales de Buelna",
+    "Temperatures": [
+      28.9
+    ],
+    "MaxTemp": 28.9,
+    "MinTemp": 28.9,
+    "AvgTemp": 28.9
+  },
+  {
+    "Name": "Saarlouis",
+    "Temperatures": [
+      33.3
+    ],
+    "MaxTemp": 33.3,
+    "MinTemp": 33.3,
+    "AvgTemp": 33.3
+  },
+  {
+    "Name": "Lomma",
+    "Temperatures": [
+      27.7
+    ],
+    "MaxTemp": 27.7,
+    "MinTemp": 27.7,
+    "AvgTemp": 27.7
+  },
+  {
+    "Name": "Kotma",
+    "Temperatures": [
+      -90.3
+    ],
+    "MaxTemp": -90.3,
+    "MinTemp": -90.3,
+    "AvgTemp": -90.3
+  },
+  {
+    "Name": "Mādhura",
+    "Temperatures": [
+      -86.7
+    ],
+    "MaxTemp": -86.7,
+    "MinTemp": -86.7,
+    "AvgTemp": -86.7
+  },
+  {
+    "Name": "Kelīshād va Sūdarjān",
+    "Temperatures": [
+      74.7
+    ],
+    "MaxTemp": 74.7,
+    "MinTemp": 74.7,
+    "AvgTemp": 74.7
+  },
+  {
+    "Name": "Brussels",
+    "Temperatures": [
+      -70.9
+    ],
+    "MaxTemp": -70.9,
+    "MinTemp": -70.9,
+    "AvgTemp": -70.9
+  },
+  {
+    "Name": "Minervino Murge",
+    "Temperatures": [
+      -83.8,
+      76.7
+    ],
+    "MaxTemp": 76.7,
+    "MinTemp": -83.8,
+    "AvgTemp": -3.549999999999997
+  },
+  {
+    "Name": "Macenta",
+    "Temperatures": [
+      -44.4
+    ],
+    "MaxTemp": -44.4,
+    "MinTemp": -44.4,
+    "AvgTemp": -44.4
+  },
+  {
+    "Name": "Wells",
+    "Temperatures": [
+      68.0
+    ],
+    "MaxTemp": 68.0,
+    "MinTemp": 68.0,
+    "AvgTemp": 68.0
+  },
+  {
+    "Name": "Sherman",
+    "Temperatures": [
+      -72.9,
+      80.5
+    ],
+    "MaxTemp": 80.5,
+    "MinTemp": -72.9,
+    "AvgTemp": 3.799999999999997
+  },
+  {
+    "Name": "Jaffna",
+    "Temperatures": [
+      39.8
+    ],
+    "MaxTemp": 39.8,
+    "MinTemp": 39.8,
+    "AvgTemp": 39.8
+  },
+  {
+    "Name": "Diemen",
+    "Temperatures": [
+      -66.8,
+      46.2
+    ],
+    "MaxTemp": 46.2,
+    "MinTemp": -66.8,
+    "AvgTemp": -10.299999999999997
+  },
+  {
+    "Name": "Haubourdin",
+    "Temperatures": [
+      -95.7
+    ],
+    "MaxTemp": -95.7,
+    "MinTemp": -95.7,
+    "AvgTemp": -95.7
+  },
+  {
+    "Name": "Hervey Bay",
+    "Temperatures": [
+      -71.5
+    ],
+    "MaxTemp": -71.5,
+    "MinTemp": -71.5,
+    "AvgTemp": -71.5
+  },
+  {
+    "Name": "Estevan",
+    "Temperatures": [
+      2.4
+    ],
+    "MaxTemp": 2.4,
+    "MinTemp": 2.4,
+    "AvgTemp": 2.4
+  },
+  {
+    "Name": "Kūcheşfahān",
+    "Temperatures": [
+      87.6
+    ],
+    "MaxTemp": 87.6,
+    "MinTemp": 87.6,
+    "AvgTemp": 87.6
+  },
+  {
+    "Name": "Yarumal",
+    "Temperatures": [
+      -35.7
+    ],
+    "MaxTemp": -35.7,
+    "MinTemp": -35.7,
+    "AvgTemp": -35.7
+  },
+  {
+    "Name": "Nefteyugansk",
+    "Temperatures": [
+      68.0
+    ],
+    "MaxTemp": 68.0,
+    "MinTemp": 68.0,
+    "AvgTemp": 68.0
+  },
+  {
+    "Name": "González Catán",
+    "Temperatures": [
+      -42.8
+    ],
+    "MaxTemp": -42.8,
+    "MinTemp": -42.8,
+    "AvgTemp": -42.8
+  },
+  {
+    "Name": "Dumri",
+    "Temperatures": [
+      73.6
+    ],
+    "MaxTemp": 73.6,
+    "MinTemp": 73.6,
+    "AvgTemp": 73.6
+  },
+  {
+    "Name": "Eastleigh",
+    "Temperatures": [
+      -46.3
+    ],
+    "MaxTemp": -46.3,
+    "MinTemp": -46.3,
+    "AvgTemp": -46.3
+  },
+  {
+    "Name": "San Felice sul Panaro",
+    "Temperatures": [
+      59.7
+    ],
+    "MaxTemp": 59.7,
+    "MinTemp": 59.7,
+    "AvgTemp": 59.7
+  },
+  {
+    "Name": "Longbenton",
+    "Temperatures": [
+      -28.5
+    ],
+    "MaxTemp": -28.5,
+    "MinTemp": -28.5,
+    "AvgTemp": -28.5
+  },
+  {
+    "Name": "Kharabali",
+    "Temperatures": [
+      98.7
+    ],
+    "MaxTemp": 98.7,
+    "MinTemp": 98.7,
+    "AvgTemp": 98.7
+  },
+  {
+    "Name": "Bolongongo",
+    "Temperatures": [
+      53.2
+    ],
+    "MaxTemp": 53.2,
+    "MinTemp": 53.2,
+    "AvgTemp": 53.2
+  },
+  {
+    "Name": "Nyala",
+    "Temperatures": [
+      2.9
+    ],
+    "MaxTemp": 2.9,
+    "MinTemp": 2.9,
+    "AvgTemp": 2.9
+  },
+  {
+    "Name": "Rupahi",
+    "Temperatures": [
+      -79.4
+    ],
+    "MaxTemp": -79.4,
+    "MinTemp": -79.4,
+    "AvgTemp": -79.4
+  },
+  {
+    "Name": "Kirkby in Ashfield",
+    "Temperatures": [
+      43.5
+    ],
+    "MaxTemp": 43.5,
+    "MinTemp": 43.5,
+    "AvgTemp": 43.5
+  },
+  {
+    "Name": "West Rembo",
+    "Temperatures": [
+      -75.0
+    ],
+    "MaxTemp": -75.0,
+    "MinTemp": -75.0,
+    "AvgTemp": -75.0
+  },
+  {
+    "Name": "Pondokaren",
+    "Temperatures": [
+      3.5
+    ],
+    "MaxTemp": 3.5,
+    "MinTemp": 3.5,
+    "AvgTemp": 3.5
+  },
+  {
+    "Name": "Terra Alta",
+    "Temperatures": [
+      55.5
+    ],
+    "MaxTemp": 55.5,
+    "MinTemp": 55.5,
+    "AvgTemp": 55.5
+  },
+  {
+    "Name": "Ourtzagh",
+    "Temperatures": [
+      -45.7
+    ],
+    "MaxTemp": -45.7,
+    "MinTemp": -45.7,
+    "AvgTemp": -45.7
+  },
+  {
+    "Name": "Nordwalde",
+    "Temperatures": [
+      -83.9
+    ],
+    "MaxTemp": -83.9,
+    "MinTemp": -83.9,
+    "AvgTemp": -83.9
+  },
+  {
+    "Name": "Pichor",
+    "Temperatures": [
+      -94.8
+    ],
+    "MaxTemp": -94.8,
+    "MinTemp": -94.8,
+    "AvgTemp": -94.8
+  },
+  {
+    "Name": "Birsinghpur",
+    "Temperatures": [
+      62.1,
+      -7.5
+    ],
+    "MaxTemp": 62.1,
+    "MinTemp": -7.5,
+    "AvgTemp": 27.3
+  },
+  {
+    "Name": "Chorkŭh",
+    "Temperatures": [
+      6.5
+    ],
+    "MaxTemp": 6.5,
+    "MinTemp": 6.5,
+    "AvgTemp": 6.5
+  },
+  {
+    "Name": "Blansko",
+    "Temperatures": [
+      -34.0
+    ],
+    "MaxTemp": -34.0,
+    "MinTemp": -34.0,
+    "AvgTemp": -34.0
+  },
+  {
+    "Name": "Fort Collins",
+    "Temperatures": [
+      -20.3
+    ],
+    "MaxTemp": -20.3,
+    "MinTemp": -20.3,
+    "AvgTemp": -20.3
+  },
+  {
+    "Name": "Mixquiahuala de Juarez",
+    "Temperatures": [
+      -94.4
+    ],
+    "MaxTemp": -94.4,
+    "MinTemp": -94.4,
+    "AvgTemp": -94.4
+  },
+  {
+    "Name": "Tlapa de Comonfort",
+    "Temperatures": [
+      95.7
+    ],
+    "MaxTemp": 95.7,
+    "MinTemp": 95.7,
+    "AvgTemp": 95.7
+  },
+  {
+    "Name": "Ambovombe Afovoany",
+    "Temperatures": [
+      -97.0
+    ],
+    "MaxTemp": -97.0,
+    "MinTemp": -97.0,
+    "AvgTemp": -97.0
+  },
+  {
+    "Name": "Töle Bī",
+    "Temperatures": [
+      72.0
+    ],
+    "MaxTemp": 72.0,
+    "MinTemp": 72.0,
+    "AvgTemp": 72.0
+  },
+  {
+    "Name": "Akçadağ",
+    "Temperatures": [
+      -87.0
+    ],
+    "MaxTemp": -87.0,
+    "MinTemp": -87.0,
+    "AvgTemp": -87.0
+  },
+  {
+    "Name": "Liugoucun",
+    "Temperatures": [
+      39.7
+    ],
+    "MaxTemp": 39.7,
+    "MinTemp": 39.7,
+    "AvgTemp": 39.7
+  },
+  {
+    "Name": "Embu-Guaçu",
+    "Temperatures": [
+      35.5
+    ],
+    "MaxTemp": 35.5,
+    "MinTemp": 35.5,
+    "AvgTemp": 35.5
+  },
+  {
+    "Name": "Ibb",
+    "Temperatures": [
+      52.0
+    ],
+    "MaxTemp": 52.0,
+    "MinTemp": 52.0,
+    "AvgTemp": 52.0
+  },
+  {
+    "Name": "Balikumbat",
+    "Temperatures": [
+      -12.4
+    ],
+    "MaxTemp": -12.4,
+    "MinTemp": -12.4,
+    "AvgTemp": -12.4
+  },
+  {
+    "Name": "Formosa",
+    "Temperatures": [
+      40.1
+    ],
+    "MaxTemp": 40.1,
+    "MinTemp": 40.1,
+    "AvgTemp": 40.1
+  },
+  {
+    "Name": "Gryazi",
+    "Temperatures": [
+      -72.2
+    ],
+    "MaxTemp": -72.2,
+    "MinTemp": -72.2,
+    "AvgTemp": -72.2
+  },
+  {
+    "Name": "Puerto Heath",
+    "Temperatures": [
+      87.6
+    ],
+    "MaxTemp": 87.6,
+    "MinTemp": 87.6,
+    "AvgTemp": 87.6
+  },
+  {
+    "Name": "Plant City",
+    "Temperatures": [
+      -34.5
+    ],
+    "MaxTemp": -34.5,
+    "MinTemp": -34.5,
+    "AvgTemp": -34.5
+  },
+  {
+    "Name": "Sebeş",
+    "Temperatures": [
+      52.3
+    ],
+    "MaxTemp": 52.3,
+    "MinTemp": 52.3,
+    "AvgTemp": 52.3
+  },
+  {
+    "Name": "Baytown",
+    "Temperatures": [
+      66.7
+    ],
+    "MaxTemp": 66.7,
+    "MinTemp": 66.7,
+    "AvgTemp": 66.7
+  },
+  {
+    "Name": "Fengruncun",
+    "Temperatures": [
+      -71.7
+    ],
+    "MaxTemp": -71.7,
+    "MinTemp": -71.7,
+    "AvgTemp": -71.7
+  },
+  {
+    "Name": "Hollola",
+    "Temperatures": [
+      76.3
+    ],
+    "MaxTemp": 76.3,
+    "MinTemp": 76.3,
+    "AvgTemp": 76.3
+  },
+  {
+    "Name": "Daegu",
+    "Temperatures": [
+      -1.0
+    ],
+    "MaxTemp": -1.0,
+    "MinTemp": -1.0,
+    "AvgTemp": -1.0
+  },
+  {
+    "Name": "Huaibaijie",
+    "Temperatures": [
+      17.8
+    ],
+    "MaxTemp": 17.8,
+    "MinTemp": 17.8,
+    "AvgTemp": 17.8
+  },
+  {
+    "Name": "Zhuozhou",
+    "Temperatures": [
+      48.4
+    ],
+    "MaxTemp": 48.4,
+    "MinTemp": 48.4,
+    "AvgTemp": 48.4
+  },
+  {
+    "Name": "Bingawan",
+    "Temperatures": [
+      85.8
+    ],
+    "MaxTemp": 85.8,
+    "MinTemp": 85.8,
+    "AvgTemp": 85.8
+  },
+  {
+    "Name": "Nanfang",
+    "Temperatures": [
+      81.3
+    ],
+    "MaxTemp": 81.3,
+    "MinTemp": 81.3,
+    "AvgTemp": 81.3
+  },
+  {
+    "Name": "Sant’Anastasia",
+    "Temperatures": [
+      -32.2
+    ],
+    "MaxTemp": -32.2,
+    "MinTemp": -32.2,
+    "AvgTemp": -32.2
+  },
+  {
+    "Name": "Pontefract",
+    "Temperatures": [
+      -62.0
+    ],
+    "MaxTemp": -62.0,
+    "MinTemp": -62.0,
+    "AvgTemp": -62.0
+  },
+  {
+    "Name": "Nagda",
+    "Temperatures": [
+      -97.2
+    ],
+    "MaxTemp": -97.2,
+    "MinTemp": -97.2,
+    "AvgTemp": -97.2
+  },
+  {
+    "Name": "Weil am Rhein",
+    "Temperatures": [
+      -38.1
+    ],
+    "MaxTemp": -38.1,
+    "MinTemp": -38.1,
+    "AvgTemp": -38.1
+  },
+  {
+    "Name": "São Miguel do Guaporé",
+    "Temperatures": [
+      -93.8,
+      86.3
+    ],
+    "MaxTemp": 86.3,
+    "MinTemp": -93.8,
+    "AvgTemp": -3.75
+  },
+  {
+    "Name": "Khasavyurt",
+    "Temperatures": [
+      -33.3
+    ],
+    "MaxTemp": -33.3,
+    "MinTemp": -33.3,
+    "AvgTemp": -33.3
+  },
+  {
+    "Name": "Coffs Harbour",
+    "Temperatures": [
+      87.4
+    ],
+    "MaxTemp": 87.4,
+    "MinTemp": 87.4,
+    "AvgTemp": 87.4
+  },
+  {
+    "Name": "Hato Mayor",
+    "Temperatures": [
+      -80.9
+    ],
+    "MaxTemp": -80.9,
+    "MinTemp": -80.9,
+    "AvgTemp": -80.9
+  },
+  {
+    "Name": "Vélez-Málaga",
+    "Temperatures": [
+      12.3
+    ],
+    "MaxTemp": 12.3,
+    "MinTemp": 12.3,
+    "AvgTemp": 12.3
+  },
+  {
+    "Name": "Thargomindah",
+    "Temperatures": [
+      -25.1
+    ],
+    "MaxTemp": -25.1,
+    "MinTemp": -25.1,
+    "AvgTemp": -25.1
+  },
+  {
+    "Name": "Thuân An",
+    "Temperatures": [
+      56.3
+    ],
+    "MaxTemp": 56.3,
+    "MinTemp": 56.3,
+    "AvgTemp": 56.3
+  },
+  {
+    "Name": "Driouch",
+    "Temperatures": [
+      -1.9
+    ],
+    "MaxTemp": -1.9,
+    "MinTemp": -1.9,
+    "AvgTemp": -1.9
+  },
+  {
+    "Name": "Friesenheim",
+    "Temperatures": [
+      99.4,
+      99.2
+    ],
+    "MaxTemp": 99.4,
+    "MinTemp": 99.2,
+    "AvgTemp": 99.30000000000001
+  },
+  {
+    "Name": "Blangmangat",
+    "Temperatures": [
+      53.8
+    ],
+    "MaxTemp": 53.8,
+    "MinTemp": 53.8,
+    "AvgTemp": 53.8
+  },
+  {
+    "Name": "San Adrián de Besós",
+    "Temperatures": [
+      -46.0
+    ],
+    "MaxTemp": -46.0,
+    "MinTemp": -46.0,
+    "AvgTemp": -46.0
+  },
+  {
+    "Name": "El Dorado",
+    "Temperatures": [
+      -8.3
+    ],
+    "MaxTemp": -8.3,
+    "MinTemp": -8.3,
+    "AvgTemp": -8.3
+  },
+  {
+    "Name": "Waalwijk",
+    "Temperatures": [
+      -30.0
+    ],
+    "MaxTemp": -30.0,
+    "MinTemp": -30.0,
+    "AvgTemp": -30.0
+  },
+  {
+    "Name": "Tlagasana",
+    "Temperatures": [
+      48.0
+    ],
+    "MaxTemp": 48.0,
+    "MinTemp": 48.0,
+    "AvgTemp": 48.0
+  },
+  {
+    "Name": "Belfort",
+    "Temperatures": [
+      -92.9
+    ],
+    "MaxTemp": -92.9,
+    "MinTemp": -92.9,
+    "AvgTemp": -92.9
+  },
+  {
+    "Name": "Nuku‘alofa",
+    "Temperatures": [
+      -23.8,
+      -26.5
+    ],
+    "MaxTemp": -23.8,
+    "MinTemp": -26.5,
+    "AvgTemp": -25.15
+  },
+  {
+    "Name": "Hangzhou",
+    "Temperatures": [
+      -58.7
+    ],
+    "MaxTemp": -58.7,
+    "MinTemp": -58.7,
+    "AvgTemp": -58.7
+  },
+  {
+    "Name": "Bīrpur Bārāpatti Pindraun",
+    "Temperatures": [
+      -70.8
+    ],
+    "MaxTemp": -70.8,
+    "MinTemp": -70.8,
+    "AvgTemp": -70.8
+  },
+  {
+    "Name": "Lillers",
+    "Temperatures": [
+      81.5
+    ],
+    "MaxTemp": 81.5,
+    "MinTemp": 81.5,
+    "AvgTemp": 81.5
+  },
+  {
+    "Name": "Imbituva",
+    "Temperatures": [
+      35.6
+    ],
+    "MaxTemp": 35.6,
+    "MinTemp": 35.6,
+    "AvgTemp": 35.6
+  },
+  {
+    "Name": "Limanowa",
+    "Temperatures": [
+      4.3
+    ],
+    "MaxTemp": 4.3,
+    "MinTemp": 4.3,
+    "AvgTemp": 4.3
+  },
+  {
+    "Name": "Nantang",
+    "Temperatures": [
+      37.5
+    ],
+    "MaxTemp": 37.5,
+    "MinTemp": 37.5,
+    "AvgTemp": 37.5
+  },
+  {
+    "Name": "Kudamatsu",
+    "Temperatures": [
+      -83.4
+    ],
+    "MaxTemp": -83.4,
+    "MinTemp": -83.4,
+    "AvgTemp": -83.4
+  },
+  {
+    "Name": "Beuningen",
+    "Temperatures": [
+      50.2
+    ],
+    "MaxTemp": 50.2,
+    "MinTemp": 50.2,
+    "AvgTemp": 50.2
+  },
+  {
+    "Name": "Comala",
+    "Temperatures": [
+      -15.3
+    ],
+    "MaxTemp": -15.3,
+    "MinTemp": -15.3,
+    "AvgTemp": -15.3
+  },
+  {
+    "Name": "Ariano Irpino",
+    "Temperatures": [
+      -51.1
+    ],
+    "MaxTemp": -51.1,
+    "MinTemp": -51.1,
+    "AvgTemp": -51.1
+  },
+  {
+    "Name": "Pinhal Novo",
+    "Temperatures": [
+      55.2
+    ],
+    "MaxTemp": 55.2,
+    "MinTemp": 55.2,
+    "AvgTemp": 55.2
+  },
+  {
+    "Name": "Tulshia",
+    "Temperatures": [
+      -13.0
+    ],
+    "MaxTemp": -13.0,
+    "MinTemp": -13.0,
+    "AvgTemp": -13.0
+  },
+  {
+    "Name": "St. Charles",
+    "Temperatures": [
+      61.6
+    ],
+    "MaxTemp": 61.6,
+    "MinTemp": 61.6,
+    "AvgTemp": 61.6
+  },
+  {
+    "Name": "Baruun-Urt",
+    "Temperatures": [
+      -3.5
+    ],
+    "MaxTemp": -3.5,
+    "MinTemp": -3.5,
+    "AvgTemp": -3.5
+  },
+  {
+    "Name": "Paredes de Coura",
+    "Temperatures": [
+      -10.5
+    ],
+    "MaxTemp": -10.5,
+    "MinTemp": -10.5,
+    "AvgTemp": -10.5
+  },
+  {
+    "Name": "Oulgaret",
+    "Temperatures": [
+      -71.7
+    ],
+    "MaxTemp": -71.7,
+    "MinTemp": -71.7,
+    "AvgTemp": -71.7
+  },
+  {
+    "Name": "Pardanjān",
+    "Temperatures": [
+      67.2
+    ],
+    "MaxTemp": 67.2,
+    "MinTemp": 67.2,
+    "AvgTemp": 67.2
+  },
+  {
+    "Name": "Geertruidenberg",
+    "Temperatures": [
+      60.9
+    ],
+    "MaxTemp": 60.9,
+    "MinTemp": 60.9,
+    "AvgTemp": 60.9
+  },
+  {
+    "Name": "New Hope",
+    "Temperatures": [
+      40.4
+    ],
+    "MaxTemp": 40.4,
+    "MinTemp": 40.4,
+    "AvgTemp": 40.4
+  },
+  {
+    "Name": "Chahār Borj-e Qadīm",
+    "Temperatures": [
+      70.4
+    ],
+    "MaxTemp": 70.4,
+    "MinTemp": 70.4,
+    "AvgTemp": 70.4
+  },
+  {
+    "Name": "Saßnitz",
+    "Temperatures": [
+      -39.1
+    ],
+    "MaxTemp": -39.1,
+    "MinTemp": -39.1,
+    "AvgTemp": -39.1
+  },
+  {
+    "Name": "Shiloh",
+    "Temperatures": [
+      -91.6
+    ],
+    "MaxTemp": -91.6,
+    "MinTemp": -91.6,
+    "AvgTemp": -91.6
+  },
+  {
+    "Name": "Gagnef",
+    "Temperatures": [
+      -25.5
+    ],
+    "MaxTemp": -25.5,
+    "MinTemp": -25.5,
+    "AvgTemp": -25.5
+  },
+  {
+    "Name": "Dassa-Zoumé",
+    "Temperatures": [
+      -19.2
+    ],
+    "MaxTemp": -19.2,
+    "MinTemp": -19.2,
+    "AvgTemp": -19.2
+  },
+  {
+    "Name": "Starše",
+    "Temperatures": [
+      29.6
+    ],
+    "MaxTemp": 29.6,
+    "MinTemp": 29.6,
+    "AvgTemp": 29.6
+  },
+  {
+    "Name": "Fontenay-aux-Roses",
+    "Temperatures": [
+      7.4
+    ],
+    "MaxTemp": 7.4,
+    "MinTemp": 7.4,
+    "AvgTemp": 7.4
+  },
+  {
+    "Name": "Virginia",
+    "Temperatures": [
+      22.6
+    ],
+    "MaxTemp": 22.6,
+    "MinTemp": 22.6,
+    "AvgTemp": 22.6
+  },
+  {
+    "Name": "Malakoff",
+    "Temperatures": [
+      -19.7
+    ],
+    "MaxTemp": -19.7,
+    "MinTemp": -19.7,
+    "AvgTemp": -19.7
+  },
+  {
+    "Name": "Czechowice-Dziedzice",
+    "Temperatures": [
+      -26.5
+    ],
+    "MaxTemp": -26.5,
+    "MinTemp": -26.5,
+    "AvgTemp": -26.5
+  },
+  {
+    "Name": "Aveiro",
+    "Temperatures": [
+      16.5
+    ],
+    "MaxTemp": 16.5,
+    "MinTemp": 16.5,
+    "AvgTemp": 16.5
+  },
+  {
+    "Name": "Haverford",
+    "Temperatures": [
+      82.4
+    ],
+    "MaxTemp": 82.4,
+    "MinTemp": 82.4,
+    "AvgTemp": 82.4
+  },
+  {
+    "Name": "Glodeni",
+    "Temperatures": [
+      -92.6
+    ],
+    "MaxTemp": -92.6,
+    "MinTemp": -92.6,
+    "AvgTemp": -92.6
+  },
+  {
+    "Name": "El Quetzal",
+    "Temperatures": [
+      -44.0
+    ],
+    "MaxTemp": -44.0,
+    "MinTemp": -44.0,
+    "AvgTemp": -44.0
+  },
+  {
+    "Name": "Patarrá",
+    "Temperatures": [
+      68.7
+    ],
+    "MaxTemp": 68.7,
+    "MinTemp": 68.7,
+    "AvgTemp": 68.7
+  },
+  {
+    "Name": "Le Hochet",
+    "Temperatures": [
+      71.1
+    ],
+    "MaxTemp": 71.1,
+    "MinTemp": 71.1,
+    "AvgTemp": 71.1
+  },
+  {
+    "Name": "Pyu",
+    "Temperatures": [
+      -11.4
+    ],
+    "MaxTemp": -11.4,
+    "MinTemp": -11.4,
+    "AvgTemp": -11.4
+  },
+  {
+    "Name": "Bounaamane",
+    "Temperatures": [
+      -27.2
+    ],
+    "MaxTemp": -27.2,
+    "MinTemp": -27.2,
+    "AvgTemp": -27.2
+  },
+  {
+    "Name": "Ashgabat",
+    "Temperatures": [
+      -62.6
+    ],
+    "MaxTemp": -62.6,
+    "MinTemp": -62.6,
+    "AvgTemp": -62.6
+  },
+  {
+    "Name": "São João",
+    "Temperatures": [
+      77.3
+    ],
+    "MaxTemp": 77.3,
+    "MinTemp": 77.3,
+    "AvgTemp": 77.3
+  },
+  {
+    "Name": "Anröchte",
+    "Temperatures": [
+      -36.7
+    ],
+    "MaxTemp": -36.7,
+    "MinTemp": -36.7,
+    "AvgTemp": -36.7
+  },
+  {
+    "Name": "Sirgora",
+    "Temperatures": [
+      4.7
+    ],
+    "MaxTemp": 4.7,
+    "MinTemp": 4.7,
+    "AvgTemp": 4.7
+  },
+  {
+    "Name": "Urgnano",
+    "Temperatures": [
+      -65.2
+    ],
+    "MaxTemp": -65.2,
+    "MinTemp": -65.2,
+    "AvgTemp": -65.2
+  },
+  {
+    "Name": "Zêtang",
+    "Temperatures": [
+      -32.4
+    ],
+    "MaxTemp": -32.4,
+    "MinTemp": -32.4,
+    "AvgTemp": -32.4
+  },
+  {
+    "Name": "Kīramangalam",
+    "Temperatures": [
+      24.5
+    ],
+    "MaxTemp": 24.5,
+    "MinTemp": 24.5,
+    "AvgTemp": 24.5
+  },
+  {
+    "Name": "Vilcún",
+    "Temperatures": [
+      -82.8
+    ],
+    "MaxTemp": -82.8,
+    "MinTemp": -82.8,
+    "AvgTemp": -82.8
+  },
+  {
+    "Name": "Sankeshwar",
+    "Temperatures": [
+      8.0
+    ],
+    "MaxTemp": 8.0,
+    "MinTemp": 8.0,
+    "AvgTemp": 8.0
+  },
+  {
+    "Name": "Kurobeshin",
+    "Temperatures": [
+      93.8
+    ],
+    "MaxTemp": 93.8,
+    "MinTemp": 93.8,
+    "AvgTemp": 93.8
+  },
+  {
+    "Name": "Shamalgan",
+    "Temperatures": [
+      15.5
+    ],
+    "MaxTemp": 15.5,
+    "MinTemp": 15.5,
+    "AvgTemp": 15.5
+  },
+  {
+    "Name": "Fremont",
+    "Temperatures": [
+      20.9
+    ],
+    "MaxTemp": 20.9,
+    "MinTemp": 20.9,
+    "AvgTemp": 20.9
+  },
+  {
+    "Name": "Waimea",
+    "Temperatures": [
+      15.7
+    ],
+    "MaxTemp": 15.7,
+    "MinTemp": 15.7,
+    "AvgTemp": 15.7
+  },
+  {
+    "Name": "Fazakerley",
+    "Temperatures": [
+      45.8
+    ],
+    "MaxTemp": 45.8,
+    "MinTemp": 45.8,
+    "AvgTemp": 45.8
+  },
+  {
+    "Name": "Stoughton",
+    "Temperatures": [
+      -82.4
+    ],
+    "MaxTemp": -82.4,
+    "MinTemp": -82.4,
+    "AvgTemp": -82.4
+  },
+  {
+    "Name": "Reghin",
+    "Temperatures": [
+      -38.3
+    ],
+    "MaxTemp": -38.3,
+    "MinTemp": -38.3,
+    "AvgTemp": -38.3
+  },
+  {
+    "Name": "Thames",
+    "Temperatures": [
+      -38.9
+    ],
+    "MaxTemp": -38.9,
+    "MinTemp": -38.9,
+    "AvgTemp": -38.9
+  },
+  {
+    "Name": "Mojkovac",
+    "Temperatures": [
+      73.6
+    ],
+    "MaxTemp": 73.6,
+    "MinTemp": 73.6,
+    "AvgTemp": 73.6
+  },
+  {
+    "Name": "Chorzów",
+    "Temperatures": [
+      83.9,
+      67.9
+    ],
+    "MaxTemp": 83.9,
+    "MinTemp": 67.9,
+    "AvgTemp": 75.9
+  },
+  {
+    "Name": "Radcliffe",
+    "Temperatures": [
+      -9.9
+    ],
+    "MaxTemp": -9.9,
+    "MinTemp": -9.9,
+    "AvgTemp": -9.9
+  },
+  {
+    "Name": "Pijiño del Carmen",
+    "Temperatures": [
+      87.8
+    ],
+    "MaxTemp": 87.8,
+    "MinTemp": 87.8,
+    "AvgTemp": 87.8
+  },
+  {
+    "Name": "Sāhit",
+    "Temperatures": [
+      4.6
+    ],
+    "MaxTemp": 4.6,
+    "MinTemp": 4.6,
+    "AvgTemp": 4.6
+  },
+  {
+    "Name": "Bhararisain",
+    "Temperatures": [
+      -80.9
+    ],
+    "MaxTemp": -80.9,
+    "MinTemp": -80.9,
+    "AvgTemp": -80.9
+  },
+  {
+    "Name": "Petropavlovsk-Kamchatskiy",
+    "Temperatures": [
+      -47.9
+    ],
+    "MaxTemp": -47.9,
+    "MinTemp": -47.9,
+    "AvgTemp": -47.9
+  },
+  {
+    "Name": "Glendale Heights",
+    "Temperatures": [
+      41.6
+    ],
+    "MaxTemp": 41.6,
+    "MinTemp": 41.6,
+    "AvgTemp": 41.6
+  },
+  {
+    "Name": "Targovishte",
+    "Temperatures": [
+      -64.9
+    ],
+    "MaxTemp": -64.9,
+    "MinTemp": -64.9,
+    "AvgTemp": -64.9
+  },
+  {
+    "Name": "Kotamobagu",
+    "Temperatures": [
+      -36.8
+    ],
+    "MaxTemp": -36.8,
+    "MinTemp": -36.8,
+    "AvgTemp": -36.8
+  },
+  {
+    "Name": "Loay",
+    "Temperatures": [
+      -63.9
+    ],
+    "MaxTemp": -63.9,
+    "MinTemp": -63.9,
+    "AvgTemp": -63.9
+  },
+  {
+    "Name": "Eisenach",
+    "Temperatures": [
+      -15.4
+    ],
+    "MaxTemp": -15.4,
+    "MinTemp": -15.4,
+    "AvgTemp": -15.4
+  },
+  {
+    "Name": "Donsol",
+    "Temperatures": [
+      14.2
+    ],
+    "MaxTemp": 14.2,
+    "MinTemp": 14.2,
+    "AvgTemp": 14.2
+  },
+  {
+    "Name": "Longkoucun",
+    "Temperatures": [
+      36.5
+    ],
+    "MaxTemp": 36.5,
+    "MinTemp": 36.5,
+    "AvgTemp": 36.5
+  },
+  {
+    "Name": "Pāthardi",
+    "Temperatures": [
+      85.2
+    ],
+    "MaxTemp": 85.2,
+    "MinTemp": 85.2,
+    "AvgTemp": 85.2
+  },
+  {
+    "Name": "Hailin",
+    "Temperatures": [
+      -47.3
+    ],
+    "MaxTemp": -47.3,
+    "MinTemp": -47.3,
+    "AvgTemp": -47.3
+  },
+  {
+    "Name": "Tiburon",
+    "Temperatures": [
+      63.8
+    ],
+    "MaxTemp": 63.8,
+    "MinTemp": 63.8,
+    "AvgTemp": 63.8
+  },
+  {
+    "Name": "Bom Retiro do Sul",
+    "Temperatures": [
+      -83.5
+    ],
+    "MaxTemp": -83.5,
+    "MinTemp": -83.5,
+    "AvgTemp": -83.5
+  },
+  {
+    "Name": "Bollène",
+    "Temperatures": [
+      -8.4
+    ],
+    "MaxTemp": -8.4,
+    "MinTemp": -8.4,
+    "AvgTemp": -8.4
+  },
+  {
+    "Name": "Melonguane",
+    "Temperatures": [
+      -67.8
+    ],
+    "MaxTemp": -67.8,
+    "MinTemp": -67.8,
+    "AvgTemp": -67.8
+  },
+  {
+    "Name": "Tenkodogo",
+    "Temperatures": [
+      -21.4
+    ],
+    "MaxTemp": -21.4,
+    "MinTemp": -21.4,
+    "AvgTemp": -21.4
+  },
+  {
+    "Name": "Ceyu",
+    "Temperatures": [
+      23.1
+    ],
+    "MaxTemp": 23.1,
+    "MinTemp": 23.1,
+    "AvgTemp": 23.1
+  },
+  {
+    "Name": "Kristiansund",
+    "Temperatures": [
+      38.1
+    ],
+    "MaxTemp": 38.1,
+    "MinTemp": 38.1,
+    "AvgTemp": 38.1
+  },
+  {
+    "Name": "Gig Harbor",
+    "Temperatures": [
+      21.1
+    ],
+    "MaxTemp": 21.1,
+    "MinTemp": 21.1,
+    "AvgTemp": 21.1
+  },
+  {
+    "Name": "Kibeho",
+    "Temperatures": [
+      70.7
+    ],
+    "MaxTemp": 70.7,
+    "MinTemp": 70.7,
+    "AvgTemp": 70.7
+  },
+  {
+    "Name": "Piagapo",
+    "Temperatures": [
+      -34.9
+    ],
+    "MaxTemp": -34.9,
+    "MinTemp": -34.9,
+    "AvgTemp": -34.9
+  },
+  {
+    "Name": "Đà Lạt",
+    "Temperatures": [
+      -57.2
+    ],
+    "MaxTemp": -57.2,
+    "MinTemp": -57.2,
+    "AvgTemp": -57.2
+  },
+  {
+    "Name": "Satun",
+    "Temperatures": [
+      -48.9
+    ],
+    "MaxTemp": -48.9,
+    "MinTemp": -48.9,
+    "AvgTemp": -48.9
+  },
+  {
+    "Name": "Kurumbalūr",
+    "Temperatures": [
+      -95.1
+    ],
+    "MaxTemp": -95.1,
+    "MinTemp": -95.1,
+    "AvgTemp": -95.1
+  },
+  {
+    "Name": "Carigara",
+    "Temperatures": [
+      96.6
+    ],
+    "MaxTemp": 96.6,
+    "MinTemp": 96.6,
+    "AvgTemp": 96.6
+  },
+  {
+    "Name": "São Gonçalo do Pará",
+    "Temperatures": [
+      -94.7
+    ],
+    "MaxTemp": -94.7,
+    "MinTemp": -94.7,
+    "AvgTemp": -94.7
+  },
+  {
+    "Name": "Villa Alsina",
+    "Temperatures": [
+      93.9
+    ],
+    "MaxTemp": 93.9,
+    "MinTemp": 93.9,
+    "AvgTemp": 93.9
+  },
+  {
+    "Name": "Manapla",
+    "Temperatures": [
+      -14.7
+    ],
+    "MaxTemp": -14.7,
+    "MinTemp": -14.7,
+    "AvgTemp": -14.7
+  },
+  {
+    "Name": "Konakovo",
+    "Temperatures": [
+      20.2
+    ],
+    "MaxTemp": 20.2,
+    "MinTemp": 20.2,
+    "AvgTemp": 20.2
+  },
+  {
+    "Name": "Porto Inglês",
+    "Temperatures": [
+      -57.0
+    ],
+    "MaxTemp": -57.0,
+    "MinTemp": -57.0,
+    "AvgTemp": -57.0
+  },
+  {
+    "Name": "Sohāna",
+    "Temperatures": [
+      55.9
+    ],
+    "MaxTemp": 55.9,
+    "MinTemp": 55.9,
+    "AvgTemp": 55.9
+  },
+  {
+    "Name": "Redcar",
+    "Temperatures": [
+      -14.4
+    ],
+    "MaxTemp": -14.4,
+    "MinTemp": -14.4,
+    "AvgTemp": -14.4
+  },
+  {
+    "Name": "Priboj",
+    "Temperatures": [
+      -59.0
+    ],
+    "MaxTemp": -59.0,
+    "MinTemp": -59.0,
+    "AvgTemp": -59.0
+  },
+  {
+    "Name": "Xinsi",
+    "Temperatures": [
+      -29.5
+    ],
+    "MaxTemp": -29.5,
+    "MinTemp": -29.5,
+    "AvgTemp": -29.5
+  },
+  {
+    "Name": "Abulug",
+    "Temperatures": [
+      75.6
+    ],
+    "MaxTemp": 75.6,
+    "MinTemp": 75.6,
+    "AvgTemp": 75.6
+  },
+  {
+    "Name": "Comalapa",
+    "Temperatures": [
+      -27.9
+    ],
+    "MaxTemp": -27.9,
+    "MinTemp": -27.9,
+    "AvgTemp": -27.9
+  },
+  {
+    "Name": "Barahkurwa",
+    "Temperatures": [
+      -25.7
+    ],
+    "MaxTemp": -25.7,
+    "MinTemp": -25.7,
+    "AvgTemp": -25.7
+  },
+  {
+    "Name": "Santarém",
+    "Temperatures": [
+      -41.6
+    ],
+    "MaxTemp": -41.6,
+    "MinTemp": -41.6,
+    "AvgTemp": -41.6
+  },
+  {
+    "Name": "Jawor",
+    "Temperatures": [
+      19.6
+    ],
+    "MaxTemp": 19.6,
+    "MinTemp": 19.6,
+    "AvgTemp": 19.6
+  },
+  {
+    "Name": "Vétraz-Monthoux",
+    "Temperatures": [
+      -96.2
+    ],
+    "MaxTemp": -96.2,
+    "MinTemp": -96.2,
+    "AvgTemp": -96.2
+  },
+  {
+    "Name": "Hulikal",
+    "Temperatures": [
+      -85.2
+    ],
+    "MaxTemp": -85.2,
+    "MinTemp": -85.2,
+    "AvgTemp": -85.2
+  },
+  {
+    "Name": "Kanifing",
+    "Temperatures": [
+      45.9
+    ],
+    "MaxTemp": 45.9,
+    "MinTemp": 45.9,
+    "AvgTemp": 45.9
+  },
+  {
+    "Name": "Sartā",
+    "Temperatures": [
+      -92.1
+    ],
+    "MaxTemp": -92.1,
+    "MinTemp": -92.1,
+    "AvgTemp": -92.1
+  },
+  {
+    "Name": "Bragadiru",
+    "Temperatures": [
+      -41.2
+    ],
+    "MaxTemp": -41.2,
+    "MinTemp": -41.2,
+    "AvgTemp": -41.2
+  },
+  {
+    "Name": "Çekme",
+    "Temperatures": [
+      97.0
+    ],
+    "MaxTemp": 97.0,
+    "MinTemp": 97.0,
+    "AvgTemp": 97.0
+  },
+  {
+    "Name": "Qrendi",
+    "Temperatures": [
+      -48.7
+    ],
+    "MaxTemp": -48.7,
+    "MinTemp": -48.7,
+    "AvgTemp": -48.7
+  },
+  {
+    "Name": "Sinŭiju",
+    "Temperatures": [
+      21.9
+    ],
+    "MaxTemp": 21.9,
+    "MinTemp": 21.9,
+    "AvgTemp": 21.9
+  },
+  {
+    "Name": "Chākdaha",
+    "Temperatures": [
+      12.4
+    ],
+    "MaxTemp": 12.4,
+    "MinTemp": 12.4,
+    "AvgTemp": 12.4
+  },
+  {
+    "Name": "Nkhata Bay",
+    "Temperatures": [
+      -79.4
+    ],
+    "MaxTemp": -79.4,
+    "MinTemp": -79.4,
+    "AvgTemp": -79.4
+  },
+  {
+    "Name": "Puttige",
+    "Temperatures": [
+      81.7
+    ],
+    "MaxTemp": 81.7,
+    "MinTemp": 81.7,
+    "AvgTemp": 81.7
+  },
+  {
+    "Name": "San Pedro de Urabá",
+    "Temperatures": [
+      -92.6
+    ],
+    "MaxTemp": -92.6,
+    "MinTemp": -92.6,
+    "AvgTemp": -92.6
+  },
+  {
+    "Name": "Bockenem",
+    "Temperatures": [
+      -86.3
+    ],
+    "MaxTemp": -86.3,
+    "MinTemp": -86.3,
+    "AvgTemp": -86.3
+  },
+  {
+    "Name": "Muaná",
+    "Temperatures": [
+      20.5
+    ],
+    "MaxTemp": 20.5,
+    "MinTemp": 20.5,
+    "AvgTemp": 20.5
+  },
+  {
+    "Name": "Bo‘z",
+    "Temperatures": [
+      61.6
+    ],
+    "MaxTemp": 61.6,
+    "MinTemp": 61.6,
+    "AvgTemp": 61.6
+  },
+  {
+    "Name": "Arrecifes",
+    "Temperatures": [
+      -26.1
+    ],
+    "MaxTemp": -26.1,
+    "MinTemp": -26.1,
+    "AvgTemp": -26.1
+  },
+  {
+    "Name": "Kotra",
+    "Temperatures": [
+      8.5
+    ],
+    "MaxTemp": 8.5,
+    "MinTemp": 8.5,
+    "AvgTemp": 8.5
+  },
+  {
+    "Name": "Warrenville",
+    "Temperatures": [
+      -63.0
+    ],
+    "MaxTemp": -63.0,
+    "MinTemp": -63.0,
+    "AvgTemp": -63.0
+  },
+  {
+    "Name": "Botou",
+    "Temperatures": [
+      -3.2
+    ],
+    "MaxTemp": -3.2,
+    "MinTemp": -3.2,
+    "AvgTemp": -3.2
+  },
+  {
+    "Name": "Tigbauan",
+    "Temperatures": [
+      -13.0
+    ],
+    "MaxTemp": -13.0,
+    "MinTemp": -13.0,
+    "AvgTemp": -13.0
+  },
+  {
+    "Name": "Esch-sur-Alzette",
+    "Temperatures": [
+      33.6
+    ],
+    "MaxTemp": 33.6,
+    "MinTemp": 33.6,
+    "AvgTemp": 33.6
+  },
+  {
+    "Name": "Malaryta",
+    "Temperatures": [
+      -73.3
+    ],
+    "MaxTemp": -73.3,
+    "MinTemp": -73.3,
+    "AvgTemp": -73.3
+  },
+  {
+    "Name": "Semiluki",
+    "Temperatures": [
+      -35.5
+    ],
+    "MaxTemp": -35.5,
+    "MinTemp": -35.5,
+    "AvgTemp": -35.5
+  },
+  {
+    "Name": "Słubice",
+    "Temperatures": [
+      -87.7
+    ],
+    "MaxTemp": -87.7,
+    "MinTemp": -87.7,
+    "AvgTemp": -87.7
+  },
+  {
+    "Name": "Arcahaie",
+    "Temperatures": [
+      -52.1
+    ],
+    "MaxTemp": -52.1,
+    "MinTemp": -52.1,
+    "AvgTemp": -52.1
+  },
+  {
+    "Name": "Chorbog",
+    "Temperatures": [
+      -95.3
+    ],
+    "MaxTemp": -95.3,
+    "MinTemp": -95.3,
+    "AvgTemp": -95.3
+  },
+  {
+    "Name": "Piraí",
+    "Temperatures": [
+      99.6
+    ],
+    "MaxTemp": 99.6,
+    "MinTemp": 99.6,
+    "AvgTemp": 99.6
+  },
+  {
+    "Name": "Raisen",
+    "Temperatures": [
+      -49.8
+    ],
+    "MaxTemp": -49.8,
+    "MinTemp": -49.8,
+    "AvgTemp": -49.8
+  },
+  {
+    "Name": "Apače",
+    "Temperatures": [
+      -70.5
+    ],
+    "MaxTemp": -70.5,
+    "MinTemp": -70.5,
+    "AvgTemp": -70.5
+  },
+  {
+    "Name": "Elze",
+    "Temperatures": [
+      -50.9
+    ],
+    "MaxTemp": -50.9,
+    "MinTemp": -50.9,
+    "AvgTemp": -50.9
+  },
+  {
+    "Name": "Ossett",
+    "Temperatures": [
+      -93.9
+    ],
+    "MaxTemp": -93.9,
+    "MinTemp": -93.9,
+    "AvgTemp": -93.9
+  },
+  {
+    "Name": "Kanchanadit",
+    "Temperatures": [
+      48.0
+    ],
+    "MaxTemp": 48.0,
+    "MinTemp": 48.0,
+    "AvgTemp": 48.0
+  },
+  {
+    "Name": "Doura",
+    "Temperatures": [
+      54.9
+    ],
+    "MaxTemp": 54.9,
+    "MinTemp": 54.9,
+    "AvgTemp": 54.9
+  },
+  {
+    "Name": "Northbrook",
+    "Temperatures": [
+      -98.4
+    ],
+    "MaxTemp": -98.4,
+    "MinTemp": -98.4,
+    "AvgTemp": -98.4
+  },
+  {
+    "Name": "Yedapalli",
+    "Temperatures": [
+      90.5
+    ],
+    "MaxTemp": 90.5,
+    "MinTemp": 90.5,
+    "AvgTemp": 90.5
+  },
+  {
+    "Name": "Capivari",
+    "Temperatures": [
+      39.9
+    ],
+    "MaxTemp": 39.9,
+    "MinTemp": 39.9,
+    "AvgTemp": 39.9
+  },
+  {
+    "Name": "Carlos Spegazzini",
+    "Temperatures": [
+      -20.2
+    ],
+    "MaxTemp": -20.2,
+    "MinTemp": -20.2,
+    "AvgTemp": -20.2
+  },
+  {
+    "Name": "Kadaň",
+    "Temperatures": [
+      34.1
+    ],
+    "MaxTemp": 34.1,
+    "MinTemp": 34.1,
+    "AvgTemp": 34.1
+  },
+  {
+    "Name": "Sabaudia",
+    "Temperatures": [
+      74.8
+    ],
+    "MaxTemp": 74.8,
+    "MinTemp": 74.8,
+    "AvgTemp": 74.8
+  },
+  {
+    "Name": "Terek",
+    "Temperatures": [
+      -42.3
+    ],
+    "MaxTemp": -42.3,
+    "MinTemp": -42.3,
+    "AvgTemp": -42.3
+  },
+  {
+    "Name": "Wijnegem",
+    "Temperatures": [
+      94.2
+    ],
+    "MaxTemp": 94.2,
+    "MinTemp": 94.2,
+    "AvgTemp": 94.2
   }
 ]
